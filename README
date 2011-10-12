@@ -1,0 +1,10 @@
+This is a small set of Clojure functions and definitions that I've found useful.
+
+I've had problems printing out certain special characters.
+
+Contents
+--------
+Printing special characters in Clojure such as " \ / { } # ' $
+
+Reference:
+  langref.org/fantom+python+clojure/strings/declaring-strings/special-characters
